@@ -7,10 +7,11 @@
   - C#
   - .NET
   - Java
-  - HTML, CSS, Less, Javascript
+  - HTML, CSS, Less, SCSS, Javascript
   - MySQL, Microsoft SQL
   - Azure
   - Scrum
+  - REST
 
 <!---
 Partanennn/Partanennn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
