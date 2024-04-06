@@ -2,12 +2,11 @@
 - 👀 I’m interested in fullstack web development (also front and back separately)
 - Keywords:
 # FRONT 
-  - Angular (not JS version) 
+  - Angular (no JS) 
   - React
   - Redux
   - javascript
   - Typescript (<3)
-  - SCSS
   - CSS
   - HTML
 # BACKEND
