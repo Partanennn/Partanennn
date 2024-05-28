@@ -1,14 +1,16 @@
 - 👋 Hi, I’m @Partanennn and I'm based in Tampere, Finland
-- 👀 I’m interested in fullstack web development (also front and back separately)
+- 👀 I’m interested in fullstack web development
 - Keywords:
 # FRONT 
-  - Angular (no JS) 
-  - React
-  - Redux
-  - javascript
   - Typescript (<3)
-  - CSS
+  - React
+  - React-i18next
+  - Material-UI (MUI)
   - HTML
+  - CSS
+  - Redux
+  - Angular (no JS) 
+  - Javascript
 # BACKEND
   - C#
   - .NET
