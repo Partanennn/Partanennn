@@ -4,19 +4,19 @@
 # FRONT 
   - Typescript (<3)
   - React
-  - React-i18next
+  - i18next
   - Material-UI (MUI)
   - HTML
   - CSS
   - Redux
-  - Angular (no JS) 
+  - Angular
   - Javascript
 # BACKEND
   - C#
   - .NET
+  - MySQL, Microsoft SQL
   - Nest
   - Mongoose
-  - MySQL, Microsoft SQL
 # Development
   - Azure
   - Scrum
