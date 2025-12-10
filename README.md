@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Partanennn and I'm based in Tampere, Finland
-- 👀 I’m interested in fullstack web development
+- 👋 Hi, I’m @Partanennn and I'm based in Espoo, Finland
+- 👀 I’m interested in Fullstack Web Development
 - Keywords:
+
 # FRONT 
   - Typescript (<3)
   - React
