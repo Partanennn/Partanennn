@@ -14,7 +14,7 @@
 # BACKEND
   - C#
   - .NET
-  - MySQL, Microsoft SQL
+  - Microsoft SQL Server
   - Nest
   - Mongoose
 # Development
