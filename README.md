@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @Partanennn and I'm based in Espoo, Finland
 - 👀 I’m interested in Fullstack Web Development
 - Keywords:
+# Cloud
+- AWS (Underwork)
+- Azure (Underwork)
 
 # FRONT 
   - Typescript (<3)
@@ -19,7 +22,6 @@
   - Nest
   - Mongoose
 # Development
-  - Azure
   - Scrum
   - REST
 
