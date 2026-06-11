@@ -2,7 +2,7 @@
 - 👀 I’m interested in Fullstack Web Development
 - Keywords:
 # Cloud
-- AWS (Underwork)
+- AWS (AWS Certified Cloud Practitioner)
 - Azure (Underwork)
 
 # FRONT 
@@ -18,8 +18,9 @@
 # BACKEND
   - C#
   - .NET
+  - NestJS
   - Microsoft SQL Server
-  - Nest
+  - Postgres
   - Mongoose
 # Development
   - Scrum
