@@ -19,6 +19,7 @@
   - C#
   - .NET
   - NestJS
+  - TypeORM
   - Microsoft SQL Server
   - Postgres
   - Mongoose
