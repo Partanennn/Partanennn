@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Partanennn and I'm based in Espoo, Finland
+- 👋 Hi, I’m @Partanennn and I'm based in Lahti, Finland
 - 👀 I’m interested in Fullstack Web Development
 - Keywords:
 # Cloud
